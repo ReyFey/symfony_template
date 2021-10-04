@@ -1,0 +1,10 @@
+# PhpStorm Configuration folder
+.idea
+
+.env
+config/secrets/prod/prod.decrypt.private.php
+public/bundles
+var
+vendor
+.phpunit.result.cache
+phpunit.xml
