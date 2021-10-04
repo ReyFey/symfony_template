@@ -4,4 +4,4 @@
 - create a repo from this template
 - `git clone` repository
 - `composer install`
-
+- add `.env` file
