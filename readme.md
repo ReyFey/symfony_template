@@ -5,3 +5,4 @@
 - `git clone` repository
 - `composer install`
 - add `.env` file
+
