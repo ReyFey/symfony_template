@@ -39,7 +39,7 @@ APP_SECRET=15176f4509b8a40b28487e4738f79d89
 # IMPORTANT: You MUST configure your server version, either here or in config/packages/doctrine.yaml
 #
 # DATABASE_URL="sqlite:///%kernel.project_dir%/var/data.db"
-# DATABASE_URL="mysql://root:@127.0.0.1:3306/projectsymfony1?serverVersion=5.7"
+DATABASE_URL="mysql://root@127.0.0.1:3306/symf_test?serverVersion=5.7"
 # DATABASE_URL="postgresql://db_user:db_password@127.0.0.1:5432/db_name?serverVersion=13&charset=utf8"
 ###< doctrine/doctrine-bundle ###
 ```
